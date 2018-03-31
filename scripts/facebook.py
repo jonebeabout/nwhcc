@@ -1,5 +1,0 @@
-from facepy import GraphAPI
-
-graph = GraphAPI('EAACEdEose0cBAC1IgrtAZBE7VGoWgPv4XXhF349P60hprYEPArRdr1FUop0YPSkIXtGivgTmMnhiMpSGdoG1jGpcL8ZArcgH1HbxPBolg1aC2VnIZBQ0LvZB0ly0f0outWnAtqiSLy2Uu3Ud0YPcHRlHC46CywUZA5hIMkm00U8aIfAUmdPSg3M56czYZAth8ZD')
-
-graph.get('100562303359185/events') # get JSON of events from church
